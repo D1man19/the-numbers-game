@@ -1,0 +1,10 @@
+C:\Users\shapo\source\Projects_C#\TheNumbers\bin\Debug\TheNumbers.exe.config
+C:\Users\shapo\source\Projects_C#\TheNumbers\bin\Debug\TheNumbers.exe
+C:\Users\shapo\source\Projects_C#\TheNumbers\bin\Debug\TheNumbers.pdb
+C:\Users\shapo\source\Projects_C#\TheNumbers\obj\Debug\TheNumbers.csprojAssemblyReference.cache
+C:\Users\shapo\source\Projects_C#\TheNumbers\obj\Debug\TheNumbers.Form1.resources
+C:\Users\shapo\source\Projects_C#\TheNumbers\obj\Debug\TheNumbers.Properties.Resources.resources
+C:\Users\shapo\source\Projects_C#\TheNumbers\obj\Debug\TheNumbers.csproj.GenerateResource.cache
+C:\Users\shapo\source\Projects_C#\TheNumbers\obj\Debug\TheNumbers.csproj.CoreCompileInputs.cache
+C:\Users\shapo\source\Projects_C#\TheNumbers\obj\Debug\TheNumbers.exe
+C:\Users\shapo\source\Projects_C#\TheNumbers\obj\Debug\TheNumbers.pdb

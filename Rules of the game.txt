@@ -1,0 +1,2 @@
+Mission: Arrange the numbers in ascending order.
+To start the game, you need to set the game time and press the "New game" button.
